@@ -1,0 +1,12 @@
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/obj/Debug/netcoreapp3.1/DungeonsOfDoom.Core.csprojAssemblyReference.cache
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/obj/Debug/netcoreapp3.1/DungeonsOfDoom.Core.AssemblyInfoInputs.cache
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/obj/Debug/netcoreapp3.1/DungeonsOfDoom.Core.AssemblyInfo.cs
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/obj/Debug/netcoreapp3.1/DungeonsOfDoom.Core.csproj.CoreCompileInputs.cache
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/bin/Debug/netcoreapp3.1/DungeonsOfDoom.Core.deps.json
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/bin/Debug/netcoreapp3.1/DungeonsOfDoom.Core.dll
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/bin/Debug/netcoreapp3.1/DungeonsOfDoom.Core.pdb
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/bin/Debug/netcoreapp3.1/Utils.dll
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/bin/Debug/netcoreapp3.1/Utils.pdb
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/obj/Debug/netcoreapp3.1/DungeonsOfDoom.Core.csproj.CopyComplete
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/obj/Debug/netcoreapp3.1/DungeonsOfDoom.Core.dll
+/Users/daniel/Downloads/DungeonsOfDoomStart/DungeonsOfDoom.Core/obj/Debug/netcoreapp3.1/DungeonsOfDoom.Core.pdb

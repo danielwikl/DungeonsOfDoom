@@ -1,0 +1,9 @@
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/bin/Debug/netcoreapp3.1/Utils.deps.json
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/bin/Debug/netcoreapp3.1/Utils.dll
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/bin/Debug/netcoreapp3.1/Utils.pdb
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/obj/Debug/netcoreapp3.1/Utils.AssemblyInfoInputs.cache
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/obj/Debug/netcoreapp3.1/Utils.AssemblyInfo.cs
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/obj/Debug/netcoreapp3.1/Utils.csproj.CoreCompileInputs.cache
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/obj/Debug/netcoreapp3.1/Utils.dll
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/obj/Debug/netcoreapp3.1/Utils.pdb
+/Users/daniel/Downloads/DungeonsOfDoomStart/Utils/obj/Debug/netcoreapp3.1/Utils.csprojAssemblyReference.cache

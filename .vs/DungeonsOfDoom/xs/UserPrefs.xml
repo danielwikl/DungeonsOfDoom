@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{5BDBC626-8907-425F-85AA-88928DC55EBF}|Default">
+  <MonoDevelop.Ide.ItemProperties.DungeonsOfDoom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DungeonsOfDoom.Core/Characters/Player.cs">
+    <Files>
+      <File FileName="DungeonsOfDoom/Program.cs" Line="1" Column="1" />
+      <File FileName="DungeonsOfDoom.Core/Characters/Monster.cs" Line="26" Column="87" />
+      <File FileName="DungeonsOfDoom.Core/Characters/Ogre.cs" Line="18" Column="11" />
+      <File FileName="DungeonsOfDoom.Core/Characters/Player.cs" Line="11" Column="148" />
+      <File FileName="DungeonsOfDoom.Core/Characters/Skeleton.cs" />
+      <File FileName="DungeonsOfDoom.Core/Characters/Character.cs" />
+      <File FileName="DungeonsOfDoom.Core/Items/ILuggable.cs" />
+      <File FileName="DungeonsOfDoom.Core/Items/Item.cs" />
+      <File FileName="DungeonsOfDoom.Core/Items/Potion.cs" />
+      <File FileName="DungeonsOfDoom.Core/Items/Sword.cs" />
+      <File FileName="DungeonsOfDoom.Core/AttackResult.cs" />
+      <File FileName="Utils/TextAnimator.cs" />
+      <File FileName="DungeonsOfDoom/ConsoleGame.cs" Line="21" Column="14" />
+      <File FileName="Utils/RandomUtils.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DungeonsOfDoom" expanded="True">
+            <Node name="DungeonsOfDoom" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="DungeonsOfDoom.Core" expanded="True">
+              <Node name="Characters" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+              <Node name="Items" expanded="True" />
+            </Node>
+            <Node name="Utils" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
